@@ -31,15 +31,15 @@ Experienced Senior Software Engineer specializing in game development with exper
 </p>
 
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Mobile Games**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **TypeScript and BlockChain**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Game Development**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **heshambinshafiq2@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I love to travel and Remote Work**
 
 
 
