@@ -29,7 +29,7 @@ Experienced Senior Software Engineer specializing in game development with exper
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Hesham Bin Shafiq LinkedIn">
     </a>
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Mobile Games**
 
