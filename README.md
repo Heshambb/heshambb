@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e9ddf929-62c3-4aa2-95d7-4a0434a113db)# 🏄‍♂️Hi, I'm Hesham Bin Shafiq
+# 🏄‍♂️Hi, I'm Hesham Bin Shafiq
 
 **`Indie Developer (Developer/Designer/Creator)`**
 
