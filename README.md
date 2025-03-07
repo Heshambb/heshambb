@@ -56,16 +56,16 @@ Experienced Senior Software Engineer specializing in game development with exper
     <img src="https://cdna.artstation.com/p/assets/images/images/085/684/302/large/hesham-shafiq-car-wash.jpg?1741372017" width="150" />
   </a>
   
-  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID3">
-    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID3/small.jpg" width="150" />
+  <a href="https://www.artstation.com/artwork/kNn8Ry">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/085/683/891/large/hesham-shafiq-screen-shot-2024-04-18-at-3-01-29-am.jpg?1741371127" width="150" />
   </a>
 
-  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID4">
-    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID4/small.jpg" width="150" />
+  <a href="https://www.artstation.com/artwork/AZgNWV">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/085/684/159/large/hesham-shafiq-screen-shot-2024-04-18-at-1-09-21-am.jpg?1741371587" width="150" />
   </a>
 
-  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID5">
-    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID5/small.jpg" width="150" />
+  <a href="https://www.artstation.com/artwork/P6N1K1">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/085/684/519/large/hesham-shafiq-screen-shot-2024-04-18-at-2-10-49-am.jpg?1741372457" width="150" />
   </a>
 
   <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID6">
