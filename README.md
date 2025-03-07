@@ -46,21 +46,31 @@ Experienced Senior Software Engineer specializing in game development with exper
 ### 🖥️ My Work
 
 ## 🎨 My Portfolio
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://www.artstation.com/artwork/kNnrol">
-        <img src="https://cdna.artstation.com/p/assets/images/images/085/672/264/large/hesham-shafiq-screen-shot-2022-08-26-at-12-50-53-am.jpg?1741350267" width="150" height="150" style="object-fit: cover;"/>
+        <img src="https://cdna.artstation.com/p/assets/images/images/085/672/264/large/hesham-shafiq-screen-shot-2022-08-26-at-12-50-53-am.jpg?1741350267" 
+             width="150" height="150" 
+             style="border: 5px solid #ddd; border-radius: 10px; padding: 5px; object-fit: cover;"/>
     </a>
     <a href="https://www.artstation.com/artwork/2B1X3A">
-        <img src="https://cdna.artstation.com/p/assets/images/images/085/684/302/large/hesham-shafiq-car-wash.jpg?1741372017" width="150" height="150" style="object-fit: cover;"/>
+        <img src="https://cdna.artstation.com/p/assets/images/images/085/684/302/large/hesham-shafiq-car-wash.jpg?1741372017" 
+             width="150" height="150" 
+             style="border: 5px solid #ddd; border-radius: 10px; padding: 5px; object-fit: cover;"/>
     </a>
     <a href="https://www.artstation.com/artwork/kNn8Ry">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/085/683/891/large/hesham-shafiq-screen-shot-2024-04-18-at-3-01-29-am.jpg?1741371127" width="150" height="150" style="object-fit: cover;"/>
+        <img src="https://cdnb.artstation.com/p/assets/images/images/085/683/891/large/hesham-shafiq-screen-shot-2024-04-18-at-3-01-29-am.jpg?1741371127" 
+             width="150" height="150" 
+             style="border: 5px solid #ddd; border-radius: 10px; padding: 5px; object-fit: cover;"/>
     </a>
     <a href="https://www.artstation.com/artwork/AZgNWV">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/085/684/159/large/hesham-shafiq-screen-shot-2024-04-18-at-1-09-21-am.jpg?1741371587" width="150" height="150" style="object-fit: cover;"/>
+        <img src="https://cdnb.artstation.com/p/assets/images/images/085/684/159/large/hesham-shafiq-screen-shot-2024-04-18-at-1-09-21-am.jpg?1741371587" 
+             width="150" height="150" 
+             style="border: 5px solid #ddd; border-radius: 10px; padding: 5px; object-fit: cover;"/>
     </a>
     <a href="https://www.artstation.com/artwork/P6N1K1">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/085/684/519/large/hesham-shafiq-screen-shot-2024-04-18-at-2-10-49-am.jpg?1741372457" width="150" height="150" style="object-fit: cover;"/>
+        <img src="https://cdnb.artstation.com/p/assets/images/images/085/684/519/large/hesham-shafiq-screen-shot-2024-04-18-at-2-10-49-am.jpg?1741372457" 
+             width="150" height="150" 
+             style="border: 5px solid #ddd; border-radius: 10px; padding: 5px; object-fit: cover;"/>
     </a>
 </div>
 
