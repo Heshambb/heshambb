@@ -82,5 +82,4 @@ Experienced Senior Software Engineer specializing in game development with exper
  <summary><h3>👨‍💻 My Journey</h3></summary>
   I started my coding journey as a passionate developer eager to explore the world of game development. With a deep curiosity for how games are built, I immersed myself in Unity, mastering C# and game mechanics while refining my skills in performance optimization, AI behavior, and immersive gameplay experiences. Over the years, I have worked on diverse projects, from casual mobile games to complex WebGL experiences, pushing the boundaries of interactive entertainment.
   Now, I stand at a new turning point. With over six years of experience in Unity game development, I know that the next level awaits—whether it's launching my own game, building a standout gaming experience, or expanding my reach through YouTube to inspire and educate even more aspiring developers. The journey is far from over, and I’m ready to take on the next challenge
-</details> 
 
