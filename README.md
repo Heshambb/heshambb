@@ -75,9 +75,9 @@ Experienced Senior Software Engineer specializing in game development with exper
 
 #
 
-## 📊 Stats
+### 📊 Stats
 
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshambb&show_icons=true&theme=gruvbox)
+[Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshambb&show_icons=true&theme=gruvbox)
 <details>
  <summary><h3>👨‍💻 My Journey</h3></summary>
   I started my coding journey as a passionate developer eager to explore the world of game development. With a deep curiosity for how games are built, I immersed myself in Unity, mastering C# and game mechanics while refining my skills in performance optimization, AI behavior, and immersive gameplay experiences. Over the years, I have worked on diverse projects, from casual mobile games to complex WebGL experiences, pushing the boundaries of interactive entertainment.
