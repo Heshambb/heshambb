@@ -32,12 +32,20 @@ Experienced Senior Software Engineer specializing in game development with exper
 ### 🖥️ My Work
 
 <!-- BEGIN ARTSTATION-CARDS -->
-[![Project Title 1](https://www.artstation.com/projects/your_project_image1.jpg)](https://www.artstation.com/artwork/your_project_link1)
-[![Project Title 2](https://www.artstation.com/projects/your_project_image2.jpg)](https://www.artstation.com/artwork/your_project_link2)
-[![Project Title 3](https://www.artstation.com/projects/your_project_image3.jpg)](https://www.artstation.com/artwork/your_project_link3)
-[![Project Title 4](https://www.artstation.com/projects/your_project_image4.jpg)](https://www.artstation.com/artwork/your_project_link4)
-[![Project Title 5](https://www.artstation.com/projects/your_project_image5.jpg)](https://www.artstation.com/artwork/your_project_link5)
-[![Project Title 6](https://www.artstation.com/projects/your_project_image6.jpg)](https://www.artstation.com/artwork/your_project_link6)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Card 1 -->
+  <div style="width: 250px; border-radius: 5px; overflow: hidden; background-color: #0d1117;">
+    <a href="PROJECT_URL_1" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="THUMBNAIL_URL_1" alt="Project Title 1" style="width: 100%;">
+      <div style="padding: 10px;">
+        <h3 style="color: #ffffff; font-size: 16px; margin: 0;">Project Title 1</h3>
+      </div>
+    </a>
+  </div>
+  <!-- Repeat for additional projects -->
+</div>
+<!-- END ARTSTATION-CARDS -->
+
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
