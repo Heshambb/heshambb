@@ -29,16 +29,16 @@ Experienced Senior Software Engineer specializing in game development with exper
 
 #
 
-### 📺 Latest YouTube Videos
+### 🖥️ My Work
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Rust is Killing C++? You might be right.](https://ytcards.demolab.com/?id=ZQyrrMqLT2s&title=Rust+is+Killing+C%2B%2B%3F+You+might+be+right.&lang=en&timestamp=1741191302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=364 "Rust is Killing C++? You might be right.")](https://www.youtube.com/watch?v=ZQyrrMqLT2s)
-[![Actually coding with Claude 3.7 is actually insane, actually.](https://ytcards.demolab.com/?id=CvooajyiiUw&title=Actually+coding+with+Claude+3.7+is+actually+insane%2C+actually.&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771 "Actually coding with Claude 3.7 is actually insane, actually.")](https://www.youtube.com/watch?v=CvooajyiiUw)
-[![New Junior Developers Can't Actually Code](https://ytcards.demolab.com/?id=6Jji5HNMze0&title=New+Junior+Developers+Can%27t+Actually+Code&lang=en&timestamp=1740315607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1607 "New Junior Developers Can't Actually Code")](https://www.youtube.com/watch?v=6Jji5HNMze0)
-[![So I Coded with Windsurf for a Week](https://ytcards.demolab.com/?id=485-1xZjKS4&title=So+I+Coded+with+Windsurf+for+a+Week&lang=en&timestamp=1740151680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=984 "So I Coded with Windsurf for a Week")](https://www.youtube.com/watch?v=485-1xZjKS4)
-[![So I Tried Kotlin Instead of Java](https://ytcards.demolab.com/?id=EYUyYu-wuww&title=So+I+Tried+Kotlin+Instead+of+Java&lang=en&timestamp=1739979902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1725 "So I Tried Kotlin Instead of Java")](https://www.youtube.com/watch?v=EYUyYu-wuww)
-[![Cargo First Impression](https://ytcards.demolab.com/?id=V2nRJRIaIRE&title=Cargo+First+Impression&lang=en&timestamp=1738947638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Cargo First Impression")](https://www.youtube.com/watch?v=V2nRJRIaIRE)
-<!-- END YOUTUBE-CARDS -->
+<!-- BEGIN ARTSTATION-CARDS -->
+[![Project Title 1](https://www.artstation.com/projects/your_project_image1.jpg)](https://www.artstation.com/artwork/your_project_link1)
+[![Project Title 2](https://www.artstation.com/projects/your_project_image2.jpg)](https://www.artstation.com/artwork/your_project_link2)
+[![Project Title 3](https://www.artstation.com/projects/your_project_image3.jpg)](https://www.artstation.com/artwork/your_project_link3)
+[![Project Title 4](https://www.artstation.com/projects/your_project_image4.jpg)](https://www.artstation.com/artwork/your_project_link4)
+[![Project Title 5](https://www.artstation.com/projects/your_project_image5.jpg)](https://www.artstation.com/artwork/your_project_link5)
+[![Project Title 6](https://www.artstation.com/projects/your_project_image6.jpg)](https://www.artstation.com/artwork/your_project_link6)
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
