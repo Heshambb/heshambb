@@ -1,4 +1,4 @@
-# 🏄‍♂️Hi, I'm Hesham Bin Shafiq
+![image](https://github.com/user-attachments/assets/e9ddf929-62c3-4aa2-95d7-4a0434a113db)# 🏄‍♂️Hi, I'm Hesham Bin Shafiq
 
 **`Indie Developer (Developer/Designer/Creator)`**
 
@@ -47,7 +47,7 @@ Experienced Senior Software Engineer specializing in game development with exper
 
 <!-- BEGIN ARTSTATION-CARDS -->
 [![Project 1](https://www.artstation.com/projects/YOUR_PROJECT_ID1/thumbnail.jpg)](https://www.artstation.com/artwork/3E8gBm)
-[![Project 2](https://www.artstation.com/projects/YOUR_PROJECT_ID2/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID2)
+[![Project 2](![image](https://github.com/user-attachments/assets/a3f8ce24-4b36-4ea4-bd5c-f7c5de77d3f5))](https://www.artstation.com/artwork/kNnrol)
 [![Project 3](https://www.artstation.com/projects/YOUR_PROJECT_ID3/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID3)
 [![Project 4](https://www.artstation.com/projects/YOUR_PROJECT_ID4/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID4)
 [![Project 5](https://www.artstation.com/projects/YOUR_PROJECT_ID5/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID5)
