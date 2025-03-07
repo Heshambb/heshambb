@@ -8,13 +8,14 @@ Experienced Senior Software Engineer specializing in game development with exper
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Unity Logo" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303388/unity.svg"/>
+<img align="left" alt="Unity Logo" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="left" alt="iOS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/IOS_Logo.svg" />
 <img align="left" alt="PC" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2012.svg" />
 <img align="left" alt="WebGL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
+
 <br />
 
 #
