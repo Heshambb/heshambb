@@ -9,7 +9,7 @@ Experienced Senior Software Engineer specializing in game development with exper
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C# Logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Unity Logo" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
+<img align="left" alt="Unity Logo" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
