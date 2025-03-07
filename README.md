@@ -45,14 +45,36 @@ Experienced Senior Software Engineer specializing in game development with exper
 
 ### 🖥️ My Work
 
-<!-- BEGIN ARTSTATION-CARDS -->
-[![Project 1](https://www.artstation.com/projects/YOUR_PROJECT_ID1/thumbnail.jpg)](https://www.artstation.com/artwork/3E8gBm)
-[![Project 2](![image](https://github.com/user-attachments/assets/a3f8ce24-4b36-4ea4-bd5c-f7c5de77d3f5))](https://www.artstation.com/artwork/kNnrol)
-[![Project 3](https://www.artstation.com/projects/YOUR_PROJECT_ID3/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID3)
-[![Project 4](https://www.artstation.com/projects/YOUR_PROJECT_ID4/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID4)
-[![Project 5](https://www.artstation.com/projects/YOUR_PROJECT_ID5/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID5)
-[![Project 6](https://www.artstation.com/projects/YOUR_PROJECT_ID6/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID6)
-<!-- END ARTSTATION-CARDS -->
+## 🎨 My Portfolio
+
+<div align="center">
+  
+  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID1">
+    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID1/small.jpg" width="150" />
+  </a>
+  
+  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID2">
+    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID2/small.jpg" width="150" />
+  </a>
+  
+  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID3">
+    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID3/small.jpg" width="150" />
+  </a>
+
+  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID4">
+    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID4/small.jpg" width="150" />
+  </a>
+
+  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID5">
+    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID5/small.jpg" width="150" />
+  </a>
+
+  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID6">
+    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID6/small.jpg" width="150" />
+  </a>
+
+</div>
+
 
 
 
