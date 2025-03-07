@@ -14,6 +14,7 @@ Experienced Senior Software Engineer specializing in game development with exper
 <img align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/android/android-official.svg" />
 
 
 <br />
