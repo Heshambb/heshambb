@@ -46,18 +46,12 @@ Experienced Senior Software Engineer specializing in game development with exper
 ### 🖥️ My Work
 
 <!-- BEGIN ARTSTATION-CARDS -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- Card 1 -->
-  <div style="width: 250px; border-radius: 5px; overflow: hidden; background-color: #0d1117;">
-    <a href="PROJECT_URL_1" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="THUMBNAIL_URL_1" alt="Project Title 1" style="width: 100%;">
-      <div style="padding: 10px;">
-        <h3 style="color: #ffffff; font-size: 16px; margin: 0;">Project Title 1</h3>
-      </div>
-    </a>
-  </div>
-  <!-- Repeat for additional projects -->
-</div>
+[![Project 1](https://www.artstation.com/projects/YOUR_PROJECT_ID1/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID1)
+[![Project 2](https://www.artstation.com/projects/YOUR_PROJECT_ID2/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID2)
+[![Project 3](https://www.artstation.com/projects/YOUR_PROJECT_ID3/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID3)
+[![Project 4](https://www.artstation.com/projects/YOUR_PROJECT_ID4/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID4)
+[![Project 5](https://www.artstation.com/projects/YOUR_PROJECT_ID5/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID5)
+[![Project 6](https://www.artstation.com/projects/YOUR_PROJECT_ID6/thumbnail.jpg)](https://www.artstation.com/artwork/YOUR_PROJECT_ID6)
 <!-- END ARTSTATION-CARDS -->
 
 
