@@ -52,8 +52,8 @@ Experienced Senior Software Engineer specializing in game development with exper
     <img src="https://cdna.artstation.com/p/assets/images/images/085/672/264/large/hesham-shafiq-screen-shot-2022-08-26-at-12-50-53-am.jpg?1741350267" width="150"/>
   </a>
   
-  <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID2">
-    <img src="https://cdna.artstation.com/p/assets/images/images/YOUR_THUMBNAIL_ID2/small.jpg" width="150" />
+  <a href="https://www.artstation.com/artwork/2B1X3A">
+    <img src="https://cdna.artstation.com/p/assets/images/images/085/684/302/large/hesham-shafiq-car-wash.jpg?1741372017" width="150" />
   </a>
   
   <a href="https://www.artstation.com/artwork/YOUR_PROJECT_ID3">
