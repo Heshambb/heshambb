@@ -19,8 +19,6 @@ Experienced Senior Software Engineer specializing in game development with exper
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"/>
-
-
 <br />
 
 #
@@ -40,8 +38,6 @@ Experienced Senior Software Engineer specializing in game development with exper
 - 📫 How to reach me **heshambinshafiq2@gmail.com**
 
 - ⚡ Fun fact **I love to travel and Remote Work**
-
-
 
 ### 🖥️ My Work
 
@@ -79,7 +75,7 @@ Experienced Senior Software Engineer specializing in game development with exper
 
 #
 
-### 📊 Stats
+## 📊 Stats
 
 ![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshambb&show_icons=true&theme=gruvbox)
 <details>
